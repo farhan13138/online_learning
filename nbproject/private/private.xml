@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/farhan/online_learning/web/WEB-INF/pages/index.jsp</file>
+            <file>file:/home/farhan/online_learning/web/WEB-INF/pages/contentprovider.jsp</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/selectprovider.java</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/verifyemailmodel.java</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/Dao.java</file>
+            <file>file:/home/farhan/online_learning/web/WEB-INF/pages/contentseeker.jsp</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/LogoutModel.java</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/countryselect.java</file>
+            <file>file:/home/farhan/online_learning/web/contentprovider.js</file>
+            <file>file:/home/farhan/online_learning/web/getcountries.js</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/MyDao.java</file>
+            <file>file:/home/farhan/online_learning/web/WEB-INF/web.xml</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/Model.java</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/LoginModel.java</file>
+            <file>file:/home/farhan/online_learning/web/WEB-INF/pages/loginnew.jsp</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/FrontController.java</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/Category.java</file>
+            <file>file:/home/farhan/online_learning/src/java/dao/MailSender.java</file>
+            <file>file:/home/farhan/online_learning/web/validator.js</file>
+        </group>
+    </open-files>
+</project-private>
